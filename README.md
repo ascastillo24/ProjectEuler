@@ -1,2 +1,2 @@
 # ProjectEuler
-Solved problems of the Project Euler
+Learn to program by solving Project Euler problems
